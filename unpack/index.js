@@ -30,7 +30,7 @@ function extractCrx(crxPath, outputDir) {
 }
 
 // Replace with your CRX file path and output directory
-const crxPath = "../ksadfhlaskjdfdsnvksasknlfjdas-hwk-v1.49.0.crx";
-const outputDir = "./pa-crx";
+const crxPath = "../ext-new.crx";
+const outputDir = "./output";
 
 extractCrx(crxPath, outputDir);
